@@ -9,7 +9,7 @@ VisMark是一个功能强大的智能图像水印处理工具，基于Python开�
 本项目采用 **Mozilla Public License 2.0 (MPL 2.0)** 许可证。
 
 ```text
-版权所有 (c) 2024 VisMark项目组
+版权所有 (c) 2025 VisMark项目组
 
 本源代码的使用受Mozilla Public License 2.0的约束，该许可证可在以下位置获取：
 http://mozilla.org/MPL/2.0/
